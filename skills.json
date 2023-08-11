@@ -1,0 +1,12 @@
+{
+  "my-skills": {
+    "php": "Possuo um nível experiente em PHP, incluindo habilidades em conexão de banco de dados, programação orientada a objetos (PHPOO), uso de MongoDB e muito mais.",
+    "golang": "Estou no começo da minha jornada com GoLang e possuo um nível iniciante. Atualmente, estou focado no desenvolvimento de aplicativos web.",
+    "javascript": "Tenho um alto nível de proficiência em JavaScript, com experiência no desenvolvimento de aplicações utilizando Node.js. Também sou habilidoso em conexões com banco de dados e outros projetos.",
+    "csharp": "Possuo um nível intermediário em C#, com experiência no desenvolvimento de aplicações desktop e utilização de APIs.",
+    "lua": "Sou altamente experiente em Lua, com um nível avançado tanto em desenvolvimento server-side quanto client-side. Já trabalhei em projetos como scripts para o FiveM e sites web.",
+    "python": "Possuo um nível intermediário em Python, com experiência no desenvolvimento de aplicações desktop, web e na utilização de várias APIs.",
+    "typescript": "Tenho um nível entre iniciante e intermediário em TypeScript. Já desenvolvi aplicações simples para desktop, aproveitando as vantagens da tipagem em relação ao JavaScript.",
+    "html/css": "Tenho um alto nível de habilidade em HTML/CSS e sou experiente no desenvolvimento de sites. Utilizo bibliotecas fantásticas como Tailwind e Bootstrap para aprimorar meus projetos."
+  }
+}
